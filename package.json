@@ -4,7 +4,8 @@
   "description": "tictactoe in terminal",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "tictactoe/tictactoe.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wlchrisking/tictactoe/issues"
   },
-  "homepage": "https://github.com/wlchrisking/tictactoe#readme"
+  "homepage": "https://github.com/wlchrisking/tictactoe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
