@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "start": "tictactoe/tictactoe.js"
+    "begin": "node tictactoe.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/wlchrisking/tictactoe#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "prompt": "^1.0.0"
   }
 }
