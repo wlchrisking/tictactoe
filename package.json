@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tictactoe in terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlchrisking/tictactoe.git"
+  },
+  "author": "chris king",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlchrisking/tictactoe/issues"
+  },
+  "homepage": "https://github.com/wlchrisking/tictactoe#readme"
+}
